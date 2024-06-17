@@ -1,0 +1,25 @@
+*{
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+}
+
+.pagination {
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: .25rem;
+    justify-content: center;
+}
+
+body.login-page{
+    background-image: url("https://i.pinimg.com/564x/c2/44/6a/c2446a96ba7f6db762a383ebbbe424ef.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    background-color: #fae3e900;
+}
+

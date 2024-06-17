@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.Chapter.ChapterActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        
+        <View
+            android:id="@+id/prev"
+            android:layout_width="50dp"
+            android:background="@drawable/baseline_keyboard_arrow_left_24"
+            android:layout_height="50dp"/>
+        
+        <TextView
+            android:id="@+id/txt_chapter_name"
+            android:text="NO PAGE NUMBER"
+            android:layout_toRightOf="@+id/prev"
+            android:layout_toLeftOf="@+id/next"
+            android:textColor="@color/lavender"
+            android:textStyle="bold"
+            android:textSize="24dp"
+            android:layout_centerVertical="true"
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        
+        <View
+            android:id="@+id/next"
+            android:layout_width="50dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/baseline_keyboard_arrow_right_24"
+            android:layout_height="50dp"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/listChapter"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </androidx.recyclerview.widget.RecyclerView>
+
+
+        <LinearLayout
+            android:id="@+id/linerLayoutNovel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="5dp"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <androidx.core.widget.NestedScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/ListNovel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/opensans_regular"
+                        android:textSize="18dp"
+                        android:text="Từ trước đến nay trong cung luôn nâng cao đạp thấp, thái giám giọng the thé nói: “Nương nương, theo ý chỉ của hệ hạ, ngài không được phép mang theo bất cứ thứ gì,
+        cho nên con súc sinh này ta sẽ mang đi.”" />
+
+                </LinearLayout>
+
+            </androidx.core.widget.NestedScrollView>
+        </LinearLayout>
+    </LinearLayout>
+
+<!--    <FrameLayout-->
+<!--        android:id="@+id/fragment_container"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent">-->
+<!--    </FrameLayout>-->
+
+</LinearLayout>

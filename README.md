@@ -6,7 +6,7 @@
 
 - Detail Page:
 
-  ![image](https://github.com/user-attachments/assets/587b165b-2b97-4ddf-97ee-5d251ea4874d)
+  ![Ảnh chụp màn hình 2025-06-04 063703](https://github.com/user-attachments/assets/522adb46-fe46-4073-b523-c7d4eb91ec8e)
 
   - Novel and comic interface
  

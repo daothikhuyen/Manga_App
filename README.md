@@ -1,5 +1,25 @@
 #Interface
 
-- Trang chủ:
-  
-![image](https://github.com/user-attachments/assets/20887aa6-c1b9-45f3-9600-1b18babbdbf5)
+- Home:
+
+  ![image](https://github.com/user-attachments/assets/4425c46b-1d2c-4648-81a5-c0b7c4ec84eb)
+
+- Detail Page:
+
+  ![image](https://github.com/user-attachments/assets/587b165b-2b97-4ddf-97ee-5d251ea4874d)
+
+  - Novel and comic interface
+ 
+    ![Ảnh chụp màn hình 2025-06-04 063059](https://github.com/user-attachments/assets/bbae689b-90bb-49c6-9656-fee8c0747762)
+
+- Ranking page
+
+  ![image](https://github.com/user-attachments/assets/7e6d0eaa-884c-4dfe-94af-f071c5c8e856)
+
+  - Admin Page:
+    ![Ảnh chụp màn hình 2025-06-04 063315](https://github.com/user-attachments/assets/ef2aa97e-6ef9-4ba4-9824-ea6ccaeb8133)
+
+    ![Ảnh chụp màn hình 2025-06-04 063405](https://github.com/user-attachments/assets/b7e0992e-9b4d-480f-81ec-91f36b10b7ff)
+
+
+

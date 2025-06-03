@@ -18,7 +18,8 @@
 
   - Admin Page:
   - 
-  ![Ảnh chụp màn hình 2025-06-04 063850](https://github.com/user-attachments/assets/d38e9048-a19a-4052-a0e8-f72ca35f9294)
+  ![image](https://github.com/user-attachments/assets/00f6fb48-646b-4c1a-ad81-6c749642f22e)
+
   ![image](https://github.com/user-attachments/assets/79850438-0344-45ad-94a3-23f8d03a5075)
 
 

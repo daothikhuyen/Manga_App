@@ -10,16 +10,15 @@
 
   - Novel and comic interface
  
-    ![Ảnh chụp màn hình 2025-06-04 063059](https://github.com/user-attachments/assets/bbae689b-90bb-49c6-9656-fee8c0747762)
+    ![Ảnh chụp màn hình 2025-06-04 063748](https://github.com/user-attachments/assets/6e996754-853f-4dc8-ad1a-c484e5c9ca60)
 
 - Ranking page
 
-  ![image](https://github.com/user-attachments/assets/7e6d0eaa-884c-4dfe-94af-f071c5c8e856)
+  ![Ảnh chụp màn hình 2025-06-04 063812](https://github.com/user-attachments/assets/1b7bd9c7-c5eb-4111-b1f6-8972d47f33d3)
 
   - Admin Page:
-    ![Ảnh chụp màn hình 2025-06-04 063315](https://github.com/user-attachments/assets/ef2aa97e-6ef9-4ba4-9824-ea6ccaeb8133)
+  ![Ảnh chụp màn hình 2025-06-04 063850](https://github.com/user-attachments/assets/d38e9048-a19a-4052-a0e8-f72ca35f9294)
 
-    ![Ảnh chụp màn hình 2025-06-04 063405](https://github.com/user-attachments/assets/b7e0992e-9b4d-480f-81ec-91f36b10b7ff)
 
 
 
